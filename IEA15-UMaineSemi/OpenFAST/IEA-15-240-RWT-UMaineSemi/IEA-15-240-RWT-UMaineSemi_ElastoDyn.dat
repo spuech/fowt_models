@@ -141,42 +141,24 @@ True          TabDelim    - Use tab delimiters in text tabular output file? (fla
 "PtfmSurge"
 "PtfmSway"
 "PtfmYaw"
-"RootFxb1"
-"RootFxb2"
-"RootFxb3"
-"RootFxc1"
-"RootFxc2"
-"RootFxc3"
-"RootFyb1"
-"RootFyb2"
-"RootFyb3"
-"RootFyc1"
-"RootFyc2"
-"RootFyc3"
-"RootFzb1"
-"RootFzb2"
-"RootFzb3"
-"RootFzc1"
-"RootFzc2"
-"RootFzc3"
-"RootMxb1"
-"RootMxb2"
-"RootMxb3"
-"RootMxc1"
-"RootMxc2"
-"RootMxc3"
-"RootMyb1"
-"RootMyb2"
-"RootMyb3"
-"RootMyc1"
-"RootMyc2"
-"RootMyc3"
-"RootMzb1"
-"RootMzb2"
-"RootMzb3"
-"RootMzc1"
-"RootMzc2"
-"RootMzc3"
+"RootFxb1"                - Out-of-plane shear force at the root of blade 1
+"RootFxb2"                - Out-of-plane shear force at the root of blade 2
+"RootFxb3"                - Out-of-plane shear force at the root of blade 3
+"RootFyb1"                - In-plane     shear force at the root of blade 1
+"RootFyb2"                - In-plane     shear force at the root of blade 2
+"RootFyb3"                - In-plane     shear force at the root of blade 3
+"RootFzb1"                - Axial              force at the root of blade 1
+"RootFzb2"                - Axial              force at the root of blade 2
+"RootFzb3"                - Axial              force at the root of blade 3
+"RootMxb1"                - In-plane     bending moment at the root of blade 1
+"RootMxb2"                - In-plane     bending moment at the root of blade 2
+"RootMxb3"                - In-plane     bending moment at the root of blade 3
+"RootMyb1"                - Out-of-plane bending moment at the root of blade 1
+"RootMyb2"                - Out-of-plane bending moment at the root of blade 2
+"RootMyb3"                - Out-of-plane bending moment at the root of blade 3
+"RootMzb1"                - Pitching             moment at the root of blade 1
+"RootMzb2"                - Pitching             moment at the root of blade 2
+"RootMzb3"                - Pitching             moment at the root of blade 3
 "RotSpeed"
 "RotThrust"
 "RotTorq"
